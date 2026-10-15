@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.navbar {
+    background-color: #1B1C37;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    width: 1120px;
+    position: absolute;
+    left: 15%;
+    top: 2%;
+    border-radius: 400px;
+
+
+
+}
+
+.nav-menu ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    color: aliceblue;
+    position: absolute;
+    top: 10px;
+    left: 500px;
+    justify-content: space-between;
+
+}
+
+.btn {
+    border-radius: 40%;
+}
+
+.heading {
+    font-size: xx-large;
+    position: absolute;
+    top: 180px;
+    left: 100px;
+}
+
+.art img {
+    width: AUTO;
+    height: 400PX;
+    position: absolute;
+    top: 20%;
+    left: 60%;
+}
+
+.paragraph {
+    position: absolute;
+    top: 45%;
+    left: 6%;
+    font-size: x-large;
+
+}
+
+
+.contactbtn {
+    background-color: #4f46e5;
+    color: #ffffff;
+    padding: 30px 50px;
+    border-radius: 40px;
+    text-decoration: none;
+    font-size: 30px;
+    display: inline-block;
+    position: relative;
+    margin-top: 560px;
+    margin-left: 80px;
+}
+.box img{
+    position: absolute;
+    left: 6%;
+     top: 80%;
+     height: auto;
+     width: 90%;
+
+}
+4
+
+
+/* 
+    .container {
+        width: 1600px;
+        height: 40px;
+        background-color: black;
+        border-radius: 6%;
+        position: absolute;
+        top: 5%;
+        left: 4%;
+    } */
